@@ -58,5 +58,5 @@
 ## Quirks :crystal_ball:
 
 - I particularly enjoy JavaScript [ES∞+](https://www.youtube.com/watch?v=dQw4w9WgXcQ), Python 3, and FP languages / toolkits
-- My curiosity has a strong affinity towards Go, Erlang, Rust, Haskell, and Solidity
+- My curiosity has a strong affinity towards Clojure, Go, Erlang, Rust, Haskell, and Solidity
 - Self-diagnosed `vim` addict, `git` maniac, and `zsh` convert

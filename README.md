@@ -24,7 +24,7 @@
 
 #### `(Triber, Paris, 2015.01 - 2015.06) => Software Engineering`
 
-- Rapid refinement of early beta to [official](https://itunes.apple.com/us/app/triber/id936498571?mt=8) [launch](https://play.google.com/store/apps/details?id=com.mytriber.one&hl=en) and beyond, fuelled growth from 500 to 20k users in six months (now 500k+ installs)
+- Rapid refinement of early beta to [official](https://itunes.apple.com/us/app/triber/id936498571?mt=8) [launch](https://play.google.com/store/apps/details?id=com.mytriber.one&hl=en) and eventual sale to NRJ Radio; fuelled growth from 500 to 20k users in six months (now 500k+ installs)
 
 #### `(LinkedIn, Mountain View, 2014.01 - 2014.04) => Software Engineering`
 

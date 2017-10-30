@@ -18,7 +18,7 @@
 #### `(ascribe, Berlin, 2015.09 - 2016.02) => Frontend developer`
 
 - Refined initial [MVP](https://www.ascribe.io/) with enhanced onboarding, uploading, and white-labelling functionality
-- Sunsetted by co-authoring a [next-generation, blockchain-ready IP spec](https://github.com/COALAIP/specs/blob/master/README.md) ([COALA IP](https://www.coalaip.org/), see [ref. implementations](https://github.com/COALAIP/specs/blob/master/IMPLEMENTATIONS.md)) and [open-sourcing](https://github.com/bigchaindb/js-reactor) [components](https://github.com/bigchaindb/js-utility-belt)
+- Sunsetted by co-authoring a [next-generation, blockchain-ready intellectual property spec](https://github.com/COALAIP/specs/blob/master/README.md) ([COALA IP](https://www.coalaip.org/), see [ref. implementations](https://github.com/COALAIP/specs/blob/master/IMPLEMENTATIONS.md)) and [open-sourcing](https://github.com/bigchaindb/js-reactor) [components](https://github.com/bigchaindb/js-utility-belt)
 
 ## Intern :wrench:
 
